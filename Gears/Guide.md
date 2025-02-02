@@ -1,3 +1,11 @@
+# Good Gear
+
+# Better Gear
+
+# Excellent Gear
+
+# S Excellent Gear
+
 > [!info] Quick Fuse
 > It is safe to use this option as it will fuse all gears up to Purple and stop.
 

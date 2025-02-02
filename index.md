@@ -10,3 +10,5 @@ Demo Pages:
 [[Evolution Chart]]
 
 [[Bouncer]]
+
+[[Guide]]
