@@ -16,12 +16,12 @@
 ## Personality Traits
 
 * **Strengths:**
-    * Enthusiastic
-        * Sincere
-            * Brave
-            * **Weaknesses:**
-                * Careless
-                    * Meddlesome
-                        * Sharp-tongued
-                        * **Keywords:**
-                            * Maintains curiosity
+   * Enthusiastic
+   * Sincere
+   * Brave
+* **Weaknesses:**
+   * Careless
+   * Meddlesome
+   * Sharp-tongued
+* **Keywords:**
+   * Maintains curiosity
