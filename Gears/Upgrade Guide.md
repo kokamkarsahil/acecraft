@@ -46,3 +46,5 @@
     2.  Fodder gear will be converted to component gear used as fusing material only.
     3.  Downgrade will **not** break down gear back to the previous tier.
     * *Example*: Gold 3 will return Gold gear and 3 Gold component gears. No purple gears will be returned.
+
+Credits: @xfodder on Acecraft Discord
